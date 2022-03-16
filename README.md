@@ -31,6 +31,9 @@ A clone of an e-commerce website where you can buy Electronics product like TV,M
 <li>Functionality to make a payment</li>
 
 
+## Landing Page :
+<img src='https://www.linkpicture.com/q/1_eDMWnceWOPcc_aHArGwJOg.png' type='image'></a>
+
 ## Sign In Page :
 
 <img src="https://i.imgur.com/Cagvhsi.png">
