@@ -34,51 +34,36 @@ A clone of an e-commerce website where you can buy Electronics product like TV,M
 ## Landing Page :
 <img src='https://www.linkpicture.com/q/1_eDMWnceWOPcc_aHArGwJOg.png' type='image'></a>
 
-## Sign In Page :
-
-<img src="https://i.imgur.com/Cagvhsi.png">
 
 
 ## Product's Page :
-You can do filtering by price and brand in product page.
-At bottom pagination is also there,where you can click any button and able to see next product of that section.
-<img src="https://i.imgur.com/MAzr1kI.png">
-<img src="https://i.imgur.com/rXe1Smx.png">
-<img src="https://i.imgur.com/nGZITms.png">
+You can do filtering by price in product page.
+<img src='https://www.linkpicture.com/q/product_page.png' type='image'>
  
  
  ## Product Carousel Page :
  In this page you can find the product details and if you like that product you can add the product to the cart.
-
-<img src="https://i.imgur.com/dxas442.png">
+<img src='https://www.linkpicture.com/q/Screenshot-104.png' type='image'>
 
 
 
 ## Cart Page :
 In this page you can find all the products you have added to the cart.If you want to delete the product from cart you can do by just clicking on delete button.
-<img src="https://i.imgur.com/B6jTe77.png">
+<img src='https://www.linkpicture.com/q/cart_page.png' type='image'>
 
-
-## Address Page :
-
-<img src="https://i.imgur.com/w7a4ZtC.png">
 
 
 ## Payment Page :
-Here you have to fill you credit card details and after that you click on pay securely button it will redirect you to otp section.
-<img src="https://i.imgur.com/OOZIkXi.png">
-<img src="https://i.imgur.com/uDjCAlg.png">
+Here you have to fill you credit card details and after that you click on pay securely button it will redirect you to home page
+<img src='https://www.linkpicture.com/q/payment_page-2.png' type='image'>
 
-## Payment Success:
-After you fill the correct otp and click on submit,it will redirect you to other page where you can know your payment is successful or not.
-And after that if you want to continue shopping just click on continue shopping button.
 
-<img src="https://i.imgur.com/F9ITZQj.png">
 
 
 ## Contributers
 
 - Madhan Mohan-<a href="https://github.com/sahilshekh">@sahilshekh</a>
+- Manesh Suresh-<a href="https://github.com/manu-2509">@manu-2509</a> 
 - Vaibhav Upasani-<a href="https://github.com/upasani">@Upasani</a>
--Manesh Suresh-<a href="https://github.com/nikhilsingh38">@nikhilsingh38</a> 
--Kushargra
+- Manesh Suresh-<a href="https://github.com/mdalishanali">@md alishan ali</a> 
+
