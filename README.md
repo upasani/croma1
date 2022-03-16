@@ -37,24 +37,24 @@ A clone of an e-commerce website where you can buy Electronics product like TV,M
 
 
 ## Product's Page :
-<li><b>You can do filtering by price in product page </b></li>
+<li><b>You can do filtering by price in product page </b></li><br>
 <img src='https://www.linkpicture.com/q/product_page.png' type='image'>
  
  
  ## Product Carousel Page :
- <li><b>In this page you can find the product details and if you like that product you can add the product to the cart.</b></li>
+ <li><b>In this page you can find the product details and if you like that product you can add the product to the cart.</b></li></br>
 <img src='https://www.linkpicture.com/q/Screenshot-104.png' type='image'>
 
 
 
 ## Cart Page :
-<li><b>In this page you can find all the products you have added to the cart.If you want to delete the product from cart you can do by just clicking on delete button.</b></li>
+<li><b>In this page you can find all the products you have added to the cart.If you want to delete the product from cart you can do by just clicking on delete button.</b></li></br>
 <img src='https://www.linkpicture.com/q/cart_page.png' type='image'>
 
 
 
 ## Payment Page :
-<li><b>Here you have to fill you credit card details and after that you click on pay securely button it will redirect you to home page</b></li>
+<li><b>Here you have to fill you credit card details and after that you click on pay securely button it will redirect you to home page</b></li></br>
 <img src='https://www.linkpicture.com/q/payment_page-2.png' type='image'>
 
 
