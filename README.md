@@ -1,5 +1,4 @@
-# croma1
-This project Clone of the Croma Website in which we can buy the electronics product which includes the functionality of searching a product and add product into the cart.Also added the sorting functionality.
+
 
 
 # Croma Website Clone
